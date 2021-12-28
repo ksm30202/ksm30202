@@ -1,6 +1,6 @@
 :wave: Hello My name is SeongMin Kim, I'm currently the freelancer.
 
-### :runner: Work Experience ![Career](https://img.shields.io/badge/8.1-green)
+### :runner: Work Experience ![Career](https://img.shields.io/badge/8.2-green)
 
 |        Date         |    Type    |                      Contents                                                                         |     Organization   | Development Enviroment |
 |:-------------------:|:----------:|:-----------------------------------------------------------------------------------------------------:|:------------------:|:---------:|
